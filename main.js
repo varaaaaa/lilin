@@ -10,7 +10,7 @@ $(document).ready(function() {
             $(this).addClass("puff-bubble");
         });
         $("#glow").remove();
-        txt.hide().html("i wish you happy birthday").delay(750).fadeIn(300);
+        txt.hide().html("Hope all ur wishes can be come true yumnaa!!").delay(750).fadeIn(300);
         $("#candle").animate(
             {
             opacity: ".5"
